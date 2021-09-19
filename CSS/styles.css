@@ -1,0 +1,175 @@
+/***** ELEMENT SELECTORS *****/
+
+a {
+    color:#11999E;
+}
+
+body {
+    margin:0 0 0 0;
+    text-align:center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    margin: 50px auto 25px auto;
+    font-family: 'Arvo', serif;
+    font-size: 5.625rem;
+    color:#084C61;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    font-weight: normal;
+    color:#334e58;
+}
+
+h3 {
+    color:#11999E;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    color:#40514E;
+}
+
+.topbottomtext {
+    margin: auto 20% auto 20%;
+    line-height: 2;
+}
+
+.copyright {
+    margin-top: 35px;
+}
+
+/***** CONTAINER SELECTORS *****/
+
+.top-container {
+    padding-top:50px;
+    background-color: #d8f3dc;
+    position: relative;
+}
+
+.middle-container {
+
+    background-color: #d8f3dc;
+}
+
+.bottom-container {
+
+    background-color: #d8f3dc;
+    padding-bottom: 35px;
+}
+
+.contact-me {
+    margin-top: 60px;
+}
+
+.profile {
+    margin-bottom: 60px;
+}
+
+.skills {
+    margin-top: 60px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 35px auto 35px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+/***** IMG SELECTORS *****/
+
+.middle-cloud {
+    position: relative;
+    left: -20%;
+    top: 45px;
+}
+
+.milleniumFalcon {
+    width: 20%;
+    float: right;
+    padding-left: 30px;
+}
+
+.mountaineer {
+    width: 100%;
+    position: relative;
+}
+
+.obiHead {
+    margin: 0 auto 25px auto;
+    width: 15%;
+}
+
+.pixelGlobe {
+    width: 20%;
+    float: left;
+    padding-right: 30px;
+}
+
+.top-cloud {
+    position: relative;
+    right: -250px;
+    top: 20px
+}
+
+/***** IDs *****/
+
+#getintouch {
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+
+#hello {
+    margin-bottom: 35px;
+}
+
+/***** NAV SELECTORS *****/
+
+.buttonContact {
+    background: #168AAD;
+    background-image: -webkit-linear-gradient(top, #168AAD, #184E77);
+    background-image: -moz-linear-gradient(top, #168AAD, #184E77);
+    background-image: -ms-linear-gradient(top, #168AAD, #184E77);
+    background-image: -o-linear-gradient(top, #168AAD, #184E77);
+    background-image: -webkit-gradient(to bottom, #168AAD, #184E77);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-family: Verdana;
+    font-size: 15px;
+    font-weight: 100;
+    padding: 15px;
+    border: solid #337FED 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin-top: 35px;
+    margin-bottom: 35px;
+ }
+ 
+ .buttonContact:hover {
+    border: solid #337FED 1px;
+    background: #184E77;
+    background-image: -webkit-linear-gradient(top, #184E77, #168AAD);
+    background-image: -moz-linear-gradient(top, #184E77, #168AAD);
+    background-image: -ms-linear-gradient(top, #184E77, #168AAD);
+    background-image: -o-linear-gradient(top, #184E77, #168AAD);
+    background-image: -webkit-gradient(to bottom, #184E77, #168AAD);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+ }
+
+ .footer-link {
+     margin: auto 3% auto 3%;
+ }
+
+/***** TEXT/FONT SELECTORS *****/
+
